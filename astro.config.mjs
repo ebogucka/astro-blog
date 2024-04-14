@@ -1,4 +1,6 @@
 import { defineConfig } from 'astro/config';
 
 // https://astro.build/config
-export default defineConfig({});
+export default defineConfig({
+    site: "https://beamish-bienenstitch-db14f9.netlify.app"
+});
